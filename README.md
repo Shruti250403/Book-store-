@@ -1,4 +1,5 @@
-Book Store Project with React.js
+                                                    Book Store Project with React.js
+
 Welcome to the README for the Book Store project built using React.js! This project aims to provide a comprehensive guide to various React.js concepts and functionalities while creating a fully functional Book Store web application.
 
 Table of Contents
